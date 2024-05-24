@@ -11,6 +11,7 @@ public class Sorting {
 		bubbleSort(arr);
 		System.out.println();
 		System.out.print("After sorting: ");
+		System.out.print("Sorted Array");
 		for(int num:arr) {
 			System.out.print(num+ " ");
 		}
